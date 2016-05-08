@@ -1,7 +1,7 @@
 Name	Population	Percentage_pop	Density	Area	Percentage_area	County
 Álava	321932	0.69	106	3037	0.6	País Vasco
 Albacete	395007	0.85	26.46	14926	2.96	Castilla-La Mancha
-Alicante	1 842963	3.97	316.82	5817	1.15 Comunidad Valenciana
+Alicante	1842963	3.97	316.82	5817	1.15	Comunidad Valenciana
 Almería	690851	1.49	78.73	8775	1.74	Andalucía
 Asturias	1041754	2.22	98.25	10603	2.10	Asturias
 Ávila	165786	0.36	20.59	8050	1.60	Castilla y León
@@ -9,7 +9,7 @@ Badajoz	686032	1.48	31.52	21766	4.31	Extremadura
 Barcelona	5427322	11.69	701.84	7733	1.53	Cataluña
 Burgos	366900	0.78	26.17	14022	2.77	Castilla y León
 Cáceres	405560	0.87	20.41	19868	3.94	Extremadura
-Cádiz	1 248625	2.69	167.82	7440	1.47	Andalucía
+Cádiz	1248625	2.69	167.82	7440	1.47	Andalucía
 Cantabria	588656	1.26	110.63	5321	1.05	Cantabria
 Castellón	574906	1.24	86.63	6636	1.31	Comunidad Valenciana
 Ciudad Real	514543	1.11	25.97	19813	3.93	Castilla-La Mancha
@@ -22,7 +22,7 @@ Guadalajara	254388	0.55	20.83	12214	2.41	Castilla-La Mancha
 Gipuzkoa	707298	1.52	354.18	1997	0.39	País Vasco
 Huelva	522216	1.12	51.57	10127	2.01	Andalucía
 Huesca	221942	0.48	14.19	15636	3.10	Aragón
-Baleares	1124 744	2.42	225.35	4991	0.99	Islas Baleares
+Baleares	1124744	2.42	225.35	4991	0.99	Islas Baleares
 Jaén	652253	1.40	48.33	13496	2.67	Andalucía
 León	480209	1.03	30.82	15580	3.09	Castilla y León
 Lérida	430655	0.93	35.38	12172	2.41	Cataluña
@@ -33,11 +33,11 @@ Murcia	1463249	3.15	129.34	11313	2.24	Región de Murcia
 Navarra	636638	1.37	61.27	10391	2.05	Navarra
 Orense	318739	0.69	43.82	7273	1.44	Galicia
 Palencia	165782	0.36	20.59	8052	1.60	Castilla y León
-Las Palmas	1106779	2.38	272.27	4065	0.81	Canarias
+Las Palmas	1106779	2.38	272.27	4065	0.81	Islas Canarias
 Pontevedra	948496	2.04	211.09	4494	0.89	Galicia
 La Rioja	319002	0.68	62.16	5045	0.99	La Rioja
 Salamanca	342045	0.74	27.70	12349	2.45	Castilla y León
-Santa Cruz de Tenerife	1021868	2.20	302.24	3381	0.67	Canarias
+Santa Cruz de Tenerife	1021868	2.20	302.24	3381	0.67	Islas Canarias
 Segovia	158085	0.34	22.84	6920	1.35	Castilla y León
 Sevilla	1939625	4.17	138.19	14036	2.78	Andalucía
 Soria	92221	0.2	111.77	10306	2.04	Castilla y León
